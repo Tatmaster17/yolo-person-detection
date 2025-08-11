@@ -1,0 +1,5 @@
+train: /workspace/training/02_part_dataset/images/train
+val: /workspace/training/02_part_dataset/images/val
+
+nc: 1
+names: ['person']
